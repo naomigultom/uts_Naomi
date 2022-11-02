@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Biografi Presiden ke-7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="this_activity">Ini adalah Activity</string>
+    <string name="this_fragment">Ini adalah Fragment</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Biografi</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukan Kata</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="dummy_photos">Presiden Indonesia</string>
+    <string name="content_text">officially announced its
+much-anticipated Pixel phones; the Pixel and Pixel XL, on October
+4. We attended Google’s London UK event, mirroring the main one
+taking place in San Francisco, US, where the firm unwrapped the</string>
+    <string name="specification">specification</string>
+    <string name="content_specs_display">inches\n
+FHD AMOLED at 441ppi\n
+2.5D Corning® Gorilla® Glass</string>
+    <string name="content_specs_size">2.7 x 0.2 ~ 0.3 inches
+143.8 x 69.5 x 7.3 ~ 8.5</string>
+    <string name="biografi">Jokowi merupakan nama populer dari Joko Widodo. Presiden ke 7 Indonesia ini memang akrab disapa Bapak Jokowi. Dimana nama panjangnya adalah Ir. H. Joko Widodo. Agama Jokowi ialah Islam.
+        Berdasarkan riwayat Jokowi, beliau lahir di Surakarta, 21 Juni 1961. Beliau dulunya adalah seorang pengusaha mebel di Surakarta. Beliau lahir dari pasangan orang tua yang bernama Noto Mihardjo dan Sujiatmi Notomihardjo.
+        Jokowi menikah dengan Iriana Joko Widodo yang akhirnya dikarunia 3 orang anak Jokowi merupakan anak yang sempat hidup sederhana bersama orang tuanya di Surakarta. Menurut artikel kumpulan biografi, Jokowi memulai pendidikannya dibangku sekolah dasar, kemudian menempuh SMP dan SMA. Tak berhenti disitu, Jokowi melanjutkan studinya di Universitas Gajah Mada. Setelah mendapat gelar dari Universitas asal Yogyakarta tersebut, beliau merantau kerja di Aceh. Dimana beliau bekerja di salah satu BUMN. Setelah mendapat pengalaman, beliau kembali ke Surakarta dengan bekerja di perusahaan yang bergerak di bidang perkayuan CV Roda Jati. Selanjutnya pada tahun 1998 Jokowi mulai berbisnis dengan modal dan pengalaman yang dimiliki. Dimana beliau akhirnya berhasil mengembangkan bisnisnya di bidang mebel, pencapaian nya adalah menjadi eksportir mebel di Surakarta.
+
+Berikut Biografi Joko Widodo berdasarkan Riwayat Pendidikan Beliau :
+
+Sekolah Dasar : SDN 111 Tirtoyoso Solo,
+Sekolah Menengah Pertama : SMP 1 Solo,
+Sekolah Menengah Atas : SMAN 6 Solo,
+Kuliah : Universitas Gajah Mada</string>
+    <string name="indonesia">Indonesia dikenal dengan nama resmi Republik Indonesia atau lebih lengkapnya Negara Kesatuan Republik Indonesia, adalah negara kepulauan di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Oseania, sehingga dikenal sebagai negara lintas benua, serta antara Samudra Pasifik dan Samudra Hindia.
+Indonesia dipimipin oleh Presiden. Presiden Republik Indonesia, umumnya disingkat sebagai Presiden Indonesia adalah kepala negara sekaligus kepala pemerintahan Indonesia. Presiden memegang kekuasaan eksekutif pemerintah Indonesia dan merupakan Panglima Tertinggi Tentara Nasional Indonesia.
+        Sejak tahun 2004, presiden dan wakil presiden dipilih secara langsung untuk masa jabatan lima tahun, dapat diperpanjang sekali dengan masa jabatan maksimal 10 tahun. Sebelum adanya perubahan terhadap Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 (UUD 1945), Presiden dan Wakil Presiden dipilih oleh Majelis Permusyawaratan Rakyat (MPR) dalam periode waktu 5 tahun dan setelahnya dapat terpilih lagi tanpa batas.
+    pemerintahan yang dipimpin oleh Presiden Joko Widodo dan Wakil Presiden Ma’ruf Amin. Kabinet ini terdiri atas 4 menteri koordinator dan 30 menteri bidang yang diumumkan pada 23 Oktober 2019 dan dilantik berdasarkan Surat Keputusan Presiden Republik Indonesia Nomor 113/P Tahun 2019 tentang Pembentukan Kementerian Negara dan Pengangkatan Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024.
+
+Pada 23 Desember 2020, Presiden Joko Widodo dan Wakil Presiden Ma’ruf Amin melakukan pergantian sejumlah menteri dengan memperkenalkan enam figur baru dalam kabinet berdasarkan pada Keputusan Presiden Republik Indonesia Nomor 133/P Tahun 2020 tentang Pengisian dan Penggantian Beberapa Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024.
+
+Selanjutnya, pada 28 April 2021, Presiden Joko Widodo melantik dua menteri kabinet berdasarkan pada Keputusan Presiden Republik Indonesia Nomor 72/P Tahun 2021 tentang Pembentukan dan Pengubahan Kementerian serta Pengangkatan Beberapa Menteri Negara Kabinet Indonesia Maju Periode Tahun 2019-2024. Melalui pengubahan terbaru ini, Kepala Negara sekaligus memperkenalkan Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi serta Kementerian Investasi.</string>
+
+</resources>
